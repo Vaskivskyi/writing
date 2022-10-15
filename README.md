@@ -16,5 +16,11 @@ Please, feel free to share any links from this page. All of them are giving free
 <li><a href="https://medium.com/@vaskivskyi/how-i-was-building-my-first-home-assistant-integration-which-is-now-even-used-by-others-d944d3e4e1ce?sk=b4906cadd13f2761cd7c111da610715e">How I was building my first Home Assistant integration, which is now even used by others.</a></li>
 </ul></td>
 </tr>
+<tr>
+<td><b>Something</b></td>
+<td><ul>
+<li><a href="https://medium.com/@vaskivskyi/i-bought-a-gaming-laptop-once-i-wont-do-that-anymore-370ad23efc0b?sk=e67b2a33ca013e5b7e2114d489ec4ec6">I Bought a Gaming Laptop Once. I Won't Do That Anymore</a></li>
+</ul></td>
+</tr>
 </table>
  

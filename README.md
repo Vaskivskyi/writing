@@ -5,7 +5,7 @@ Please, feel free to share any links from this page. All of them are giving free
 <table>
 <tr><th>Group</th><th>Title & link</th></tr>
 <tr>
-<td><b>Featured<br/>Longreads</b></td>
+<td><b>Featured /<br/>Longreads</b></td>
 <td><ul>
 <li><a href="https://medium.com/@vaskivskyi/871b78c286dd?source=friends_link&sk=111a0a4bc9d5ba5285ee802bc3303630">How I was deciphering PDF417 without any manual</a></li>
 </ul></td>
@@ -17,3 +17,4 @@ Please, feel free to share any links from this page. All of them are giving free
 </ul></td>
 </tr>
 </table>
+ 
